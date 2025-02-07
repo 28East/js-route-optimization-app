@@ -21,3 +21,5 @@ terraform.tfstate*
 
 .DS_Store
 application/frontend/src/config/*
+/east-fleet-routing-73cd431c696a.json
+east-fleet-routing-9d0ab13f2d42.json
